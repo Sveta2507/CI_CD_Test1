@@ -1,0 +1,4 @@
+Country, Area, Population
+Ukraine, 603628, 44134645
+Japan, 377973, 126919566
+США, 9629091, 331443284
