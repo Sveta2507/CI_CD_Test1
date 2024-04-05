@@ -1,5 +1,2 @@
-from main import division
+from main import country_sort
 import pytest
-
-def test_division():
-    assert division(10, 1) == 10
